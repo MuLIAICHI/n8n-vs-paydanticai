@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../mcp-space/ottomator-agents-main/crawl4AI-agent/n8n-version"
+		}
+	],
+	"settings": {}
+}
