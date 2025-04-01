@@ -38,7 +38,7 @@ See detailed instructions in the [n8n-version README](n8n-version/README.md).
 
 ## Further Reading
 
-For a more detailed comparison between these two approaches, check out my Medium article (link to be added).
+For a more detailed comparison between these two approaches, check out my Medium article [read me](https://medium.com/@mustaphaliaichi/building-agentic-rag-systems-n8n-vs-pydantic-ai-b9088b496c84).
 
 ## License
 
